@@ -3,7 +3,7 @@
 This very Weather application written with react.js to get the state of the weather like (temp, city, country, humidity and description) by using API.
 
 ## Live Demo
-- Link: https://ahmed-abo-rafat.github.Weather_App/
+- Link: https://ahmed-abo-rafat.github.io/Weather_App/
 
 ## To begin:
 ``npx create-react-app my-app``<br>
